@@ -1,3 +1,4 @@
+Implementation of a handwriting recognition algorithm in Python with Numpy using a neural network and character segmentation techniques. Built from scratch using vanilla Python and Numpy. 
 Steps to run program:
 1. Create a virtual environment
 Can be done with: python3 -m venv venv
